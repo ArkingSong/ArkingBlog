@@ -241,6 +241,16 @@
 		"tags": [
 			"3D"
 		],
-		"stars": 3
+		"stars": 5
+	},
+	{
+		"name": "Susurrus",
+		"logo": "blob:https://www.yysuni.com/939b5dbb-2e4a-47dd-87c4-71ace4bf00e7",
+		"url": "https://susurrus.vercel.app",
+		"description": "和煦日光下的春日田野，\n这些草儿刚刚长出，但还未完全长成。\n而当轻柔的微风拂过之处，\n它们微微荡漾，声音轻柔而低沉。",
+		"tags": [
+			"3D"
+		],
+		"stars": 4
 	}
 ]
