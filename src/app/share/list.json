@@ -135,7 +135,7 @@
 	},
 	{
 		"name": "Igloo Inc.",
-		"logo": "https://www.igloo.inc/assets/favicon32-af94112f.png",
+		"logo": "/images/share/bfd0d5d3f6fd9811.webp",
 		"url": "https://www.igloo.inc/",
 		"description": "abeto 作品，非常酷炫",
 		"tags": [
@@ -145,7 +145,7 @@
 	},
 	{
 		"name": "abeto 官网",
-		"logo": "https://abeto.co/assets/favicon32-11fb90a3.png",
+		"logo": "/images/share/36cd436103f87549.webp",
 		"url": "https://abeto.co/",
 		"description": "无限绽开的花，飘荡的树叶，复古风格化",
 		"tags": [
@@ -155,7 +155,7 @@
 	},
 	{
 		"name": "Messenger",
-		"logo": "https://messenger.abeto.co/assets/favicon32-BC0QIL61.png",
+		"logo": "/images/share/a325a2c41044854a.webp",
 		"url": "https://messenger.abeto.co/",
 		"description": "abeto 作品，卡通送信员在地球小镇上奔跑，联机在线，可换装",
 		"tags": [
@@ -165,7 +165,7 @@
 	},
 	{
 		"name": "Summer Afternoon",
-		"logo": "https://summer-afternoon.vlucendo.com/assets/favicon32-e817b074.png",
+		"logo": "/images/share/3e14394c1063f979.webp",
 		"url": "https://summer-afternoon.vlucendo.com/",
 		"description": "夏日午后，小男孩在乡村公路上上游玩",
 		"tags": [
@@ -175,7 +175,7 @@
 	},
 	{
 		"name": "The Monolith Project",
-		"logo": "https://themonolithproject.net/assets/images-next/nose_logo.webp",
+		"logo": "/images/share/12d8765705a21d67.webp",
 		"url": "https://themonolithproject.net/",
 		"description": "奇幻宇宙的动画演绎，像看电影一样。“跨越多星之际，一座沉默的巨石碑悄然苏醒。“巨石碑计划”：每一次触碰，皆可重写现实。”",
 		"tags": [
@@ -225,7 +225,7 @@
 	},
 	{
 		"name": "WoraWork",
-		"logo": "https://worawork.vercel.app/Icons/worawork.webp",
+		"logo": "/images/share/34ef22be0009fedc.webp",
 		"url": "https://worawork.vercel.app/",
 		"description": "方格世界的 Web3D，场景渲染非常棒，非常值得体验",
 		"tags": [
