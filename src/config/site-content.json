@@ -9,14 +9,15 @@
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
-		"colorBg": "#d4e8f3",
+		"colorBg": "#d7eaf4",
 		"colorBorder": "#ffffff",
 		"colorCard": "#ffffff99",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#fffef8"
+		"#c8c4ef87",
+		"#fffef8",
+		"#adf0f7"
 	],
 	"artImages": [
 		{
