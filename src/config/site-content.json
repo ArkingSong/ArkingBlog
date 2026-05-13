@@ -29,22 +29,26 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		},
 		{
-			"id": "1c7b726fe720679b",
-			"url": "/images/art/1c7b726fe720679b.jpg"
+			"id": "95919f977fada026",
+			"url": "/images/art/95919f977fada026.png"
+		},
+		{
+			"id": "67bbeef1bf0d2b05",
+			"url": "/images/art/67bbeef1bf0d2b05.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "95919f977fada026",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
 		},
 		{
-			"id": "95919f977fada026",
-			"url": "/images/background/95919f977fada026.png"
+			"id": "7692186d03117588",
+			"url": "/images/background/7692186d03117588.png"
 		}
 	],
-	"currentBackgroundImageId": "95919f977fada026",
+	"currentBackgroundImageId": "7692186d03117588",
 	"socialButtons": [
 		{
 			"id": "email",
