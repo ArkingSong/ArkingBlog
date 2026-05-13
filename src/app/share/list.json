@@ -11,7 +11,7 @@
 	},
 	{
 		"name": "style box",
-		"logo": "blob:https://arking-blog.vercel.app/c6013637-27ed-4774-a09a-712741f8aca0",
+		"logo": "/images/share/a781a5fff271003f.png",
 		"url": "https://www.hbr.style/en?v=box",
 		"description": "box选择展示",
 		"tags": [
@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "hbrquest",
-		"logo": "blob:https://arking-blog.vercel.app/86dfac3a-3042-4fb6-a15c-beea6f1054fa",
+		"logo": "/images/share/5aa09e44bfe17c82.png",
 		"url": "https://hbr.quest/",
 		"description": "数据资源站",
 		"tags": [
@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "TojoFiles",
-		"logo": "blob:https://arking-blog.vercel.app/2e215176-5c94-427b-8aeb-5f7415fb71c1",
+		"logo": "/images/share/5aa09e44bfe17c82.png",
 		"url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRE8-R_xoNaUGGUMa_tHbq4NgUVcO9DzPQ5g9jhPBdOTdTjxsdW5yT3JteKfoS2xxzoyqItREEXSycW/pubhtml",
 		"description": "en区做的一个多功能excel",
 		"tags": [
