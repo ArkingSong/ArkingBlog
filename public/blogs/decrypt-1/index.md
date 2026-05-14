@@ -1,4 +1,4 @@
-- Windows 下 Frida + Mumu 模拟器 + ADB HOOK 实战指南
+
 
   # Frida + Mumu 模拟器 + ADB HOOK 实战指南
 
@@ -129,7 +129,7 @@
 
   
 
- 出现问题：程序有frida检测，并非检测脚本和监听端口。尝试使用魔改的frida
+  出现问题：程序有frida检测，并非检测脚本和监听端口。尝试使用魔改的frida
   
   1.尝试rusda https://github.com/taisuii/rusda
   
