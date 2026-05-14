@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "slug": "decrypt-1",
+    "title": "（一）Frida Hook实战-环境搭建和尝试",
+    "tags": [],
+    "date": "2026-05-14T14:39",
+    "summary": "frida的基础原理",
+    "cover": "/blogs/decrypt-1/4c4a4ae3e392029b.png",
+    "hidden": false,
+    "category": "代码实现"
+  }
+]
